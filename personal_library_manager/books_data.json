@@ -1,0 +1,16 @@
+[
+    {
+        "title": "My-Story",
+        "author": "Ayesha Joyo",
+        "year": "2025",
+        "genre": "Story",
+        "read": true
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "year": "1988",
+        "genre": "Self-Help",
+        "read": true
+    }
+]
